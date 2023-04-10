@@ -33,7 +33,7 @@
         <p>HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines
              its style. HTML and CSS are the beginning of everything you need to know to make your first 
              web page! Learn both and start creating amazing websites.</p>
-        <a href="https://www.w3schools.com/html/default.asp">Check All Course</a>
+        <a href="">Check All Course</a>
         <div class="control">
             <p>04</p>
             <div class="line"><span></span></div>
